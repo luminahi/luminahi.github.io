@@ -1,0 +1,19 @@
+html {
+	font-family: monospace;
+	box-sizing: border-box;
+}
+
+body {
+	width: 1500px;
+	height: 800px;
+	margin: 0 auto;
+	border: 5px solid lightgray;
+	padding: 20px;
+}
+
+canvas {
+	width: 750px;
+	border: 5px solid black;
+	display: block;
+	margin: 0 auto;
+}
