@@ -1,3 +1,3 @@
 # lumialex.github.io
 
-website with box runner, move with ⬅️ ⬇️ ⬆️ ➡️
+website with box runner, move with WASD
