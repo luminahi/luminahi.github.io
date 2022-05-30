@@ -1,3 +1,3 @@
 # box
 
-website with box runner, move with WASD
+move with WASD
