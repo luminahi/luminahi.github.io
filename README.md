@@ -1,3 +1,1 @@
-# box
-
-move with WASD
+# A Simple Page
