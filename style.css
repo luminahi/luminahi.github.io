@@ -1,19 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
 html {
-	font-family: monospace;
-	box-sizing: border-box;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 24px;
 }
 
 body {
-	width: 1500px;
-	height: 800px;
-	margin: 0 auto;
-	border: 5px solid lightgray;
-	padding: 20px;
+    margin: 0;
+    background-color: rgb(255, 212, 212);
 }
 
-canvas {
-	width: 750px;
-	border: 5px solid black;
-	display: block;
-	margin: 0 auto;
+.container {
+    display: flex;
+}
+
+a {
+    padding: 14px;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.btn-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 48px;
+    align-items: center;
+}
+
+.cool-btn {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-inline: 10px;
+    box-shadow: 10px 10px;
 }
